@@ -1,0 +1,32 @@
+{
+    "name": "cotton-candy-skies",
+    "displayName": "Cotton Candy Skies",
+    "description": "A theme written by CoffeeBreakk",
+    "version": "1.0.2",
+    "publisher": "CoffeeBreakk",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+	"homepage": "https://github.com/coffeebreakk/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/coffeebreakk/Cotton-Candy-Skies.git"
+	},
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cotton Candy Skies",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cottonCandySkies.tmTheme"
+            }
+        ]
+    },
+    "__metadata": {
+		"publisherId": "CoffeeBreakk",
+		"publisherDisplayName": "CoffeeBreakk"
+	}
+}
